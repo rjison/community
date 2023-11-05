@@ -1,0 +1,8 @@
+---
+id: japanese-clock
+name: Japanese Clock
+summary: Japanese Clock Display
+desc: Displays time in Japanese.
+author: Robert Ison
+fileName: japanese_clock.star
+packageName: japaneseclock
