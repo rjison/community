@@ -1,0 +1,8 @@
+---
+id: coinflip
+name: CoinFlip
+summary: Flips a coin
+desc: Flips a coin each display.
+author: Robert Ison
+fileName: coinflip.star
+packageName: coinflip
